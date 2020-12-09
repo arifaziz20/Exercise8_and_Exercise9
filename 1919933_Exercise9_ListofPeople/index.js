@@ -19,7 +19,7 @@ let listofpeople = " ";
       listofpeople += people[l].name[a]+" ";
     }
     listofpeople += "<br/>";
-  }
+  } 
 
 document.getElementById("solution").innerHTML = listofpeople;
 
