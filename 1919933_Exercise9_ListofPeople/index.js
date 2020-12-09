@@ -22,7 +22,7 @@ let listofpeople = " ";
   } 
 
 document.getElementById("solution").innerHTML = listofpeople;
-
+ 
 }
 
 function getAge() {
